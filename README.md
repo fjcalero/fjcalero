@@ -1,8 +1,9 @@
 ## Data science and design thinking
-I'm a designer and data enthusiast looking for new ways to improve the design process through creative, critical, and algorithm thinking.  
-For the last ten years, I've worked as a strategic and service designer to create or improve services or business strategists.  
+I'm a **designer and data enthusiast** looking for new ways to improve the design process through **creative, critical, and algorithm thinking**.  
+For the last ten years, I've worked as a **strategic and service designer** to create or improve services or business strategies.  
 
-You can ask me about:
+### You can ask me about:
+
 - Data Science
 - HTML & CSS
 - Project management
